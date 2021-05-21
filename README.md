@@ -12,7 +12,7 @@ I have solid experience with Fullstack development and UX/UI design, but in the 
 
 
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=tiagostutz&labels=true"
+  src="language-stats-may-2021.png"
        width=800
 />
 
