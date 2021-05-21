@@ -6,20 +6,16 @@ I have solid experience with Fullstack development and UX/UI design, but in the 
 
 ## Ranking by my source code analysis - CodersRank
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tiagostutz&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tiagostutz&badges=3&show-avatar=false"
   width=800
 />
+
 
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=tiagostutz&labels=true"
        width=800
 />
 
-
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tiagostutz&skills=JavaScript,TypeScript,Go,Docker,HTML,CSS,JSON,Python&show-other-skills=true"
-  width=800
-/>
 
 ## Github Stats
 
