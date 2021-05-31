@@ -4,9 +4,9 @@ Let's begin with this: I just love to code software that is actually used by peo
 I have solid experience with Fullstack development and UX/UI design, but in the past two years I've beeing working mainly with Backend and Cloud Ops.
 
 
-## Ranking by my source code analysis - CodersRank
+## Ranking by my source code analysis - CodersRank (updated 2021-05-31)
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tiagostutz&badges=3&show-avatar=false"
+  src="codersrank-widget.png"
   width=800
 />
 
