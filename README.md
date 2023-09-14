@@ -4,15 +4,15 @@ I just love to code software that is actually used by people on a relevant matte
 I have solid experience with Fullstack development and UX/UI design, but in the past two years I've beeing working mainly with Backend and Cloud Ops.
 
 
-## Ranking by my source code analysis - CodersRank (updated 2021-05-31)
+## Ranking by my source code analysis - CodersRank (updated 2023)
 <img
-  src="codersrank-widget.png"
+  src="codersrank-2023.png"
   width=800
 />
 
 
 <img
-  src="language-stats-may-2021.png"
+  src="language-stats-may-2023.png"
        width=800
 />
 
