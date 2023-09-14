@@ -6,7 +6,7 @@ I have solid experience with Fullstack development and UX/UI design, but in the 
 
 ## Ranking by my source code analysis - CodersRank (updated 2023)
 <img
-  src="codersrank-2023.png"
+  src="coders-rank-2023.png"
   width=800
 />
 
