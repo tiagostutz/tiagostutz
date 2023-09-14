@@ -12,7 +12,12 @@ I have solid experience with Fullstack development and UX/UI design, but in the 
 
 
 <img
-  src="language-stats-may-2023.png"
+  src="language-stats-2023.png"
+       width=800
+/>
+
+<img
+  src="tech-stats-2023.png"
        width=800
 />
 
